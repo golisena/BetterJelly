@@ -1,0 +1,11 @@
+{
+    "name": "BetterJelly",
+    "guid": "5510c3a-15fe-4bbe-a5e0-7d5b8c7f7cfa",
+    "version": "1.0.0",
+    "description": "Enhances Jellyfin with transcode blocking, whitelabeling, and custom sidebar links.",
+    "targetAbi": "10.9.0.0", 
+    "developer": "DS",
+    "repositoryUrl": "https://github.com/golisena/BetterJelly",
+    "category": "General"
+  }
+  
