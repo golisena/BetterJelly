@@ -1,16 +1,18 @@
-{
-      "guid": "5510c3a-15fe-4bbe-a5e0-7d5b8c7f7cfa",
-      "name": "BetterJelly",
-      "description": "Enhances Jellyfin with transcode blocking, whitelabeling, and custom sidebar links.",
-      "owner": "golisena",
-      "category": "General",
-      "imageUrl": "",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "changelist": "Initial release",
-          "targetAbi": "10.10.6.0",
-          "sourceUrl": "https://github.com/golisena/BetterJelly/archive/refs/tags/version_1.0.1.zip",
-        }
-    ]
-}
+[
+  {
+    "name": "BetterJelly",
+    "guid": "5510c3a-15fe-4bbe-a5e0-7d5b8c7f7cfa",
+    "version": "1.0.0",
+    "targetAbi": "10.10.6.0",
+    "overview": "A Better Jellyfin Experience.",
+    "description": "Adds additional features like blocking transcoding, custom sidebar links, and white labeling.",
+    "category": "General",
+    "artifacts": [
+      {
+        "checksum": "9B0100EDD3FB20071019E1007CA899FCC59921BA222B762EF5651CCA3303DEA6",
+        "url": "https://github.com/golisena/BetterJelly/blob/main/Jellyfin.Plugin.BetterJelly.dll"
+      }
+    ],
+    "changelog": "Initial release with core features."
+  }
+]
