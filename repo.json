@@ -1,0 +1,7 @@
+{
+  "name": "BetterJelly",
+  "guid": "5510c3a-15fe-4bbe-a5e0-7d5b8c7f7cfa",
+  "packages": [
+    "https://github.com/golisena/BetterJelly/blob/main/manifest.json"
+  ]
+}
