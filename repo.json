@@ -1,8 +1,0 @@
-{
-    "name": "BetterJelly Plugin Repo",
-    "guid": "5510c3a-15fe-4bbe-a5e0-7d5b8c7f7cfa",
-    "packages": [
-      "https://github.com/golisena/BetterJelly/releases/download/version_1.0.0/manifest.json"
-    ]
-  }
-  
